@@ -1,0 +1,2 @@
+# WeClone---Fast-and-Easy-Website-and-Web-Application-Clone-with-Automated-Testing-and-Deployment
+ WeClone is an open-source web application that simplifies the process of cloning websites and web applications. It allows users to quickly replicate and test websites locally or deploy them on various cloud platforms. WeClone combines automated website scraping, code generation, and deployment to save you time and effort.
